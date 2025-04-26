@@ -1,6 +1,6 @@
 package easy;
 
-public class Problem009_PalindromeNumber {
+public class Problem9_PalindromeNumber {
     public boolean isPalindrome(int x) {
         String number = String.valueOf(x);
         char[] num = number.toCharArray();

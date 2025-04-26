@@ -3,7 +3,7 @@ package easy;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Problem001_TwoSum {
+public class Problem1_TwoSum {
     public int[] twoSum(int[] nums, int target) {
 
         // mapa to wartość z tablicy i jej indeks
